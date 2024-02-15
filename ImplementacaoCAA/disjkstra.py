@@ -33,7 +33,7 @@ grafo = {
     4: {0: 3, 2: 1, 3: 1}
 }
 
-vertice_inicial = 0
+vertice_inicial = 2
 destino = 4
 
 distancias, caminhos = dijkstra(grafo, vertice_inicial)
